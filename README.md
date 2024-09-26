@@ -1,5 +1,5 @@
 # PaginaWebColaborativa
-Practica 1 GitHub
+## Practica 1 GitHub
 
 Integrantes:
 - **Adrián** jefe de contactos
