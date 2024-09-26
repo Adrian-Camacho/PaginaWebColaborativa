@@ -1,2 +1,2 @@
 # PaginaWebColaborativa
-repositorio de practica
+Practica 1 GitHub
