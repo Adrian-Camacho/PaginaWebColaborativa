@@ -1,2 +1,0 @@
-# PaginaWebColaborativa
-repositorio de practica
